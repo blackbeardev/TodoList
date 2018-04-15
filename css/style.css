@@ -1,0 +1,29 @@
+.header {
+    text-align: center;
+}
+
+li {
+    list-style: none;
+}
+
+#todoList {
+    margin: 4rem 0;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.todoLi {
+    font-size: 20px;
+    color: #666;
+    margin-top: 2rem;
+}
+
+.btn-spacing {
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+.deleteBtn {
+    background-color: red;
+}
